@@ -1,0 +1,17 @@
+commit ee2634db458f2ae2fb8febb24e49ac57631588d9
+Author: Sebas <ramirezsebastian839@gmail.com>
+Date:   Tue Oct 15 10:46:05 2019 -0500
+
+    rojo pasion
+
+commit 17303b224f2c96658f7f9c9eff6786041e3428ea
+Author: Sebas <ramirezsebastian839@gmail.com>
+Date:   Tue Oct 15 10:08:59 2019 -0500
+
+    Se agrego imagenes y borde
+
+commit 20469f1166f0753656cb4f6db93e9cc6145657d9
+Author: Sebas <ramirezsebastian839@gmail.com>
+Date:   Tue Oct 15 09:28:26 2019 -0500
+
+    Mensaje
