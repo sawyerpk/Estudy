@@ -1,6 +1,9 @@
-p
+body
 {
-border-style: ridge;
-border-width: 10px;
-border-color: indigo;
+background-color: rgb(245, 11, 11);
+
+}
+pa{
+    border-radius: 5px;
+    border-color: gold;
 }
