@@ -1,9 +1,17 @@
-body
-{
-background-color: rgb(18, 2, 168);
 
+.pa{
+    padding: 15px;
+    border-radius: 99px;
+    border-color: rgb(0, 0, 0);
+    background-color: blue;
 }
-pa{
-    border-radius: 5px;
-    border-color: gold;
+.btn, .pa
+{
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: black;
+    background-color: blue;
+    color: black;
+    margin: 10px 0;
+    display: inline-block;
 }
