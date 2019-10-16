@@ -4,6 +4,11 @@ h1{
     display: inline-block;
     transition: 1.0s;
 }
+h2{
+    margin: 250px;
+    color: rgb(15, 201, 201);
+    background-color: rgb(124, 122, 122);
+} 
 P{
     color: rgb(15, 201, 201);
     background-color: rgb(124, 122, 122);
@@ -12,7 +17,7 @@ P{
 {
     padding: 10px 20px;
     border-radius: 25px;
-    border: black;
+    border: 2px black;
     background-color: blue;
     color: black;
     margin: 10px 0;
