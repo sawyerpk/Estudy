@@ -5,7 +5,7 @@
     border-color: rgb(0, 0, 0);
     background-color: blue;
 }
-.btn, .pa
+.btn
 {
     padding: 10px 20px;
     border-radius: 25px;
@@ -14,4 +14,9 @@
     color: black;
     margin: 10px 0;
     display: inline-block;
+    transition: 1.0s;
+}
+
+.btn:hover{
+    transform: scale(1.2);
 }
