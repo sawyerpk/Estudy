@@ -5,9 +5,13 @@ h1{
     transition: 1.0s;
 }
 h2{
+    font-size:  50px;
+    text-align: center;
+    text-transform: uppercase   ;
     margin: 250px;
     color: rgb(15, 201, 201);
     background-color: rgb(124, 122, 122);
+    letter-spacing: 5px;
 } 
 P{
     color: rgb(15, 201, 201);
