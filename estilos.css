@@ -1,8 +1,12 @@
 h1{
-    background-color: rgb(15, 201, 201);
+    font-size:  50px;
+    text-align: center;
+    text-transform: uppercase   ;
     margin: 10px 0;
-    display: inline-block;
-    transition: 1.0s;
+    color: rgb(15, 201, 201);
+    background-color: rgb(124, 122, 122);
+    letter-spacing: 5px;
+    text-shadow: 5px 2px 2px black;
 }
 h2{
     font-size:  50px;
