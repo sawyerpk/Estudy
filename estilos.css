@@ -1,9 +1,12 @@
-
-.pa{
-    padding: 15px;
-    border-radius: 99px;
-    border-color: rgb(0, 0, 0);
-    background-color: blue;
+h1{
+    background-color: rgb(15, 201, 201);
+    margin: 10px 0;
+    display: inline-block;
+    transition: 1.0s;
+}
+P{
+    color: rgb(15, 201, 201);
+    background-color: rgb(124, 122, 122);
 }
 .btn
 {
@@ -14,9 +17,13 @@
     color: black;
     margin: 10px 0;
     display: inline-block;
-    transition: 1.0s;
+    transition: 0.2s;
 }
 
 .btn:hover{
     transform: scale(1.2);
+}
+h1:hover
+{
+    transform: scale3d()(1.2);
 }
